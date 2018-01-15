@@ -8,4 +8,6 @@ Initial Deliverables decided to imlement:
 1.selection based connector 
 2.Skype connector 
 3.Mail or calander appoinment of info  based on users interest 
-4.support all possible interactions 
+4.support all possible interactions
+############
+
